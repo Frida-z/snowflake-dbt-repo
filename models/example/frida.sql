@@ -1,0 +1,1 @@
+select * from DB_ASSIGNMENT1.PUBLIC.SALES
